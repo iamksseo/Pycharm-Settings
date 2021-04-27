@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="36844320-42e6-4b4d-aee1-9a434ee7e32b" name="kyungsik-seo">
+      <server useHttp="false" host="oss.navercorp.com" />
+    </account>
+  </component>
+</application>
