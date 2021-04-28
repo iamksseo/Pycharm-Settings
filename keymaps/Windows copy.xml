@@ -17,5 +17,8 @@
   </action>
   <action id="SplitChooser.Duplicate" />
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="shift b" />
+  </action>
   <action id="ViewSource" />
 </keymap>
